@@ -87,3 +87,5 @@ Test and optimize the performance of your chosen storage mechanisms to ensure a 
 
 Remember that the best approach may vary depending on your specific use case and requirements.
 
+See the image below for a better comparison.![Data Storage on Web](https://github.com/Michjosh/Client-side-Data-Storage-and-Management/assets/117924669/234d3e2c-062e-41f0-9a79-6902181c5ec4)
+
