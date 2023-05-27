@@ -1,4 +1,4 @@
-# Web-Client-side-Data-Storage-and-Management
+#Client-side-Data-Storage-and-Management
 
 Data Storage on Web with Javascript.
 
